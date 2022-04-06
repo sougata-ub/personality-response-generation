@@ -29,3 +29,15 @@ python -m torch.distributed.run --nnodes=1 --nproc_per_node=2 --master_port 9999
 ### Additional Models
 1. BERT based intent classifier: https://drive.google.com/file/d/1jbGeLyfuaTRh9N3o3VSYiNqiX71d93lS/view?usp=sharing
 2. Big 5 personality predictor trained on PANDORA dataset: https://drive.google.com/file/d/1Ltn53jj-0wfk5UjY2idxWX9HOkASgDnp/view?usp=sharing
+
+## Citation
+If you are using this library then do cite: 
+```bibtex
+@inproceedings{anonymous2022stylistic,
+    title={Stylistic Response Generation by Controlling Personality Traits and Intent},
+    author={Anonymous},
+    booktitle={4th Workshop on NLP for Conversational AI},
+    year={2022},
+    url={https://openreview.net/forum?id=HHgE4ggWxZq}
+}
+```
