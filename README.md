@@ -33,11 +33,17 @@ python -m torch.distributed.run --nnodes=1 --nproc_per_node=2 --master_port 9999
 ## Citation
 If you are using this library then do cite: 
 ```bibtex
-@inproceedings{anonymous2022stylistic,
-    title={Stylistic Response Generation by Controlling Personality Traits and Intent},
-    author={Anonymous},
-    booktitle={4th Workshop on NLP for Conversational AI},
-    year={2022},
-    url={https://openreview.net/forum?id=HHgE4ggWxZq}
+@inproceedings{saha-etal-2022-stylistic,
+    title = "Stylistic Response Generation by Controlling Personality Traits and Intent",
+    author = "Saha, Sougata  and
+      Das, Souvik  and
+      Srihari, Rohini",
+    booktitle = "Proceedings of the 4th Workshop on NLP for Conversational AI",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.nlp4convai-1.16",
+    pages = "197--211"
 }
 ```
