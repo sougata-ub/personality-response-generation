@@ -3,7 +3,8 @@
 
 This is the implementation of the paper:
 
-**Stylistic Response Generation by Controlling Personality Traits and Intent**. [**Sougata Saha**](https://www.linkedin.com/in/sougata-saha-8964149a/), [**Souvik Das**](https://www.linkedin.com/in/souvikdas23/), [**Rohini Srihari**](https://www.acsu.buffalo.edu/~rohini/) 
+## [**Stylistic Response Generation by Controlling Personality Traits and Intent**](https://aclanthology.org/2022.nlp4convai-1.16/). 
+[**Sougata Saha**](https://www.linkedin.com/in/sougata-saha-8964149a/), [**Souvik Das**](https://www.linkedin.com/in/souvikdas23/), [**Rohini Srihari**](https://www.acsu.buffalo.edu/~rohini/) 
 
 4th Workshop on NLP for ConvAI (ACL 2022)
 
